@@ -1,9 +1,13 @@
 Napisz program w języku JAVA do zarządzania danymi studentów. W tym celu utwórz klasę o nazwie STUDENT z następującymi polami:
 
 imie - typu String;
+
 nazwisko - typu String;
+
 ocena - typu double;
+
 plec - typu char;
+
 kierunek - typu String;
 
 
@@ -21,6 +25,7 @@ Metody, które dokonują zmiany kierunku oraz oceny, po zmianie mają wywołać 
 
 
 Dodatkowe metody do zaimplementowania:
+
 
 Metoda ObliczSredniaOcen(), która oblicza średnią ocenę studenta na podstawie dostępnych ocen i ją zwraca.
 
