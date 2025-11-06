@@ -1,12 +1,12 @@
 Napisz program w języku JAVA do zarządzania danymi studentów. W tym celu utwórz klasę o nazwie STUDENT z następującymi polami:
 
-imie - typu String;
+- imie - typu String;
 
-nazwisko - typu String;
+- nazwisko - typu String;
 
-ocena - typu double;
+- ocena - typu double;
 
-plec - typu char;
+- plec - typu char;
 
 kierunek - typu String;
 
